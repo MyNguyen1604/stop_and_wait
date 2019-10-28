@@ -1,0 +1,7 @@
+<library path="lib/libstop_and_wait">
+  <class name="stopandwait/StopAndWait" type="stop_and_wait::StopAndWait" base_class_type="nav_core::RecoveryBehavior">
+    <description>
+      A recovery behavior that stops and waits obstacles remove
+    </description>
+  </class>
+</library>
